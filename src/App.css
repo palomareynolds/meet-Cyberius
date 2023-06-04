@@ -1,0 +1,22 @@
+
+.container {
+  margin: 20px;
+  padding: 40px;
+  display: flex;
+  justify-content: space-around;
+  background: linear-gradient(to right, #f9ce34, #ee2a7b, #6228d7);
+}
+
+
+.text {
+  font-size: 20px;
+  font-family:sans-serif;
+  font-weight: 100px;
+  line-height: 25px;
+  text-align: justify;
+  
+}
+
+p, a, h2 {
+  color: white;
+}
